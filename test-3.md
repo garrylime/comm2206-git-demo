@@ -1,4 +1,3 @@
 # This is test markdown file 3
 
-Here is some sample content.
-
+Owls are the most regal of birds. Even more regal than eagles. 
